@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as py
 import numpy as np
 import pickle
-import sklearn
+import scikit-learn
 
 Status  = {
 "New" : 0,"Ready to move" : 1,"Resale" : 2,"Under Construction" : 3,}
